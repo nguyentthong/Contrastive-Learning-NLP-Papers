@@ -259,6 +259,10 @@ Current NLP models heavily rely on effective representation learning algorithms.
 
 ### Information Extraction
 
+1. **Contrastive Learning for Neural Topic Model** *Thong Nguyen, Anh Tuan Luu* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2110.12764) [[code]](https://github.com/nguyentthong/CLNTM)
+
+1. **Topic Modeling as Multi-Objective Contrastive Optimization** *Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu* `ICLR 2024` [[pdf]](https://arxiv.org/abs/2402.07577)
+
 1. **ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning** *Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun, Jie Zhou* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.15022) [[code]](https://github.com/thunlp/ERICA)
 
 1. **CIL: Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction** *Tao Chen, Haizhou Shi, Siliang Tang, Zhigang Chen, Fei Wu, Yueting Zhuang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.10855)
@@ -419,6 +423,14 @@ Current NLP models heavily rely on effective representation learning algorithms.
 1. **Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference** *Yong-Ho Jung, Jun-Hyung Park, Joon-Young Choi, Mingyu Lee, Junho Kim, Kang-Min Kim, SangKeun Lee* `Findings of ACL 2022` [[pdf]](https://aclanthology.org/2022.findings-acl.119/)
 
 ### Vision-and-Language
+
+1. **Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning** *Thong Nguyen, Yi Bin, Xiaobao Wu, Xinshuai Dong, Zhiyuan Hu, Khoi Le, Cong-Duy Nguyen, See-Kiong Ng, Luu Anh Tuan* `ECCV 2024` [[pdf]](https://arxiv.org/abs/2407.03788)
+
+1. **Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions** *Thong Nguyen, Xiaobao Wu, Anh-Tuan Luu, Cong-Duy Nguyen, Zhen Hai, Lidong Bing* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2211.03524) [[code]](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
+
+1. **Kdmcse: Knowledge distillation multimodal sentence embeddings with adaptive angular margin contrastive learning** *Cong-Duy Nguyen, Thong Nguyen, Xiaobao Wu, Anh Tuan Luu* `NAACL 2024` [[pdf]](https://arxiv.org/abs/2403.17486) [[code]](https://github.com/duyngtr16061999/KDMCSE)
+
+1. **Improving multimodal sentiment analysis: Supervised angular margin-based contrastive learning for enhanced fusion representation** `EMNLP 2023 (Findings)` *Cong-Duy Nguyen, Thong Nguyen, Duc Anh Vu, Luu Anh Tuan* [[pdf]](https://arxiv.org/abs/2312.02227)
 
 1. **Language Models Can See: Plugging Visual Controls in Text Generation** *Yixuan Su, Tian Lan, Yahui Liu, Fangyu Liu, Dani Yogatama, Yan Wang, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2205.02655) [[code]](https://github.com/yxuansu/magic)
 
